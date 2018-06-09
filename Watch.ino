@@ -1,7 +1,7 @@
 //Coded by Muhammad Hassanul Ihsan
 //hassanulmakers.wordpress.com
 //https://hassanulmakers.wordpress.com/2015/07/08/arduino-smartwatch/
-//You are free to use and modify this code, provided that you credit me and provide link to my website
+//You are free to use and modify this code
 
 
 #include <SoftReset.h>
